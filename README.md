@@ -45,4 +45,5 @@ Cocinar en horno a 250º C durante unos 12 minutos o freír en abundante grasa d
 
 Paso 9
 
-Se las suele acompañar con una salsa hecha con tomate triturado, ají picante, sal y limón.
+Se las suele acompañar con una salsa hecha con tomate triturado, ají picante, sal y limón..
+

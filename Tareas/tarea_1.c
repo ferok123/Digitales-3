@@ -3,11 +3,11 @@
 int main()
 {
   int a,b;                        //variable dos enteros
-  printf("Ingrese dos numeros:");  //imprimo por pantalla
-  scanf("%d %d , &a, &b);
-  printf("\n Suma: %d , a+b);
+  printf("Ingrese dos numeros: \n");  //imprimo por pantalla
+  scanf("%d %d", &a, &b);
 
-    return 0;
-  
+  printf(" \n Suma: %d " , a+b);
+
+  return 0;
+
 }
-
